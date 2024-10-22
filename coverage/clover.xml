@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1729182206730" clover="3.2.0">
-  <project timestamp="1729182206730" name="All files">
+<coverage generated="1729565044070" clover="3.2.0">
+  <project timestamp="1729565044070" name="All files">
     <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1" elements="17" coveredelements="15" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
     <file name="numbersPrime.js" path="C:\Users\billy\js\jsAlgorithms\algorithms\exercises1\numbersPrime.js">
       <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
